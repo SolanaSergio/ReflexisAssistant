@@ -1,0 +1,7 @@
+{
+  "name": "ZWS Schedule Solver",
+  "description": "A constraint-based algorithmic solver for retail scheduling, optimizing for labor laws, budget, and Reflexis data entry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
